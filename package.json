@@ -1,7 +1,7 @@
 {
-  "name": "mensajito",
+  "name": "RADION FM",
   "version": "1.0.0",
-  "description": "",
+  "description": "Radio Transmitter for Metaverse",
   "main": "app.js",
   "dependencies": {
     "axios": "^0.21.1",
